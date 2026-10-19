@@ -1,0 +1,46 @@
+ENCUESTA DE SATISFACCIÓN DE CLIENTES - NIMBUSDOCS - SEGUNDO SEMESTRE 2025
+Respuestas abiertas a la pregunta: "¿Qué es lo que más y lo que menos te gusta del producto?"
+
+Respuesta 1 (Plan Equipo, 12 personas): Nos encanta editar en tiempo real con todo el equipo. Lo que menos nos gusta es que la app de escritorio tarda mucho en abrir documentos grandes, a veces más de 20 segundos.
+
+Respuesta 2 (Plan Gratis): La interfaz es limpia y fácil. Me gustaría que el límite de 3 personas fuera un poco más alto antes de tener que pagar.
+
+Respuesta 3 (Plan Empresa, 300 personas): El SSO funcionó a la primera y soporte responde rápido. Echamos de menos permisos más finos: hoy no podemos dar acceso de solo comentario a una carpeta entera.
+
+Respuesta 4 (Plan Equipo, 8 personas): La búsqueda dentro de los documentos es muy lenta y muchas veces no encuentra palabras que sé que están ahí.
+
+Respuesta 5 (Plan Equipo, 25 personas): El historial de versiones nos salvó dos veces. El problema es la sincronización sin conexión: al volver a conectarnos aparecieron conflictos y perdimos cambios.
+
+Respuesta 6 (Plan Gratis): Uso NimbusDocs para la universidad y me sirve mucho. A veces el celular se queda en "sincronizando" y no termina nunca.
+
+Respuesta 7 (Plan Empresa, 120 personas): Las plantillas son muy útiles para el equipo comercial. Nos gustaría poder exportar a PDF con el logo de la empresa sin tener que editar cada vez.
+
+Respuesta 8 (Plan Equipo, 15 personas): La app de escritorio consume mucha memoria y se vuelve lenta cuando tengo más de 10 documentos abiertos.
+
+Respuesta 9 (Plan Equipo, 6 personas): El precio está bien para lo que ofrece. La búsqueda no encuentra resultados en documentos con tablas.
+
+Respuesta 10 (Plan Empresa, 450 personas): Soporte prioritario excelente. Necesitamos permisos por grupos de usuarios; hoy hay que asignar persona por persona y es inmanejable.
+
+Respuesta 11 (Plan Gratis): Muy buena herramienta. Me gustaría modo oscuro en el navegador.
+
+Respuesta 12 (Plan Equipo, 30 personas): Edité un documento sin conexión en un viaje y al volver se duplicaron párrafos. Tuvimos que revisar todo a mano.
+
+Respuesta 13 (Plan Equipo, 10 personas): Los comentarios y menciones funcionan perfecto. La carga de documentos con muchas imágenes es muy lenta.
+
+Respuesta 14 (Plan Empresa, 80 personas): La migración desde nuestra herramienta anterior fue fácil. Faltan permisos de solo lectura por carpeta para clientes externos.
+
+Respuesta 15 (Plan Equipo, 18 personas): La búsqueda es lo peor del producto: tarda y los resultados no están ordenados por relevancia.
+
+Respuesta 16 (Plan Gratis): Simple y rápido en el navegador. En el celular a veces no guarda los cambios si cierro la app muy rápido.
+
+Respuesta 17 (Plan Equipo, 22 personas): Nos gusta la integración con el calendario. Abrir documentos de más de 50 páginas en escritorio es desesperante.
+
+Respuesta 18 (Plan Empresa, 200 personas): Valoramos que los datos estén en la Unión Europea. Pedimos auditoría de accesos: saber quién vio cada documento.
+
+Respuesta 19 (Plan Equipo, 9 personas): El editor es cómodo. Perdimos cambios por un conflicto de sincronización después de trabajar sin internet.
+
+Respuesta 20 (Plan Equipo, 14 personas): Todo bien en general. La búsqueda debería permitir filtrar por autor y fecha.
+
+Respuesta 21 (Plan Gratis): Me gusta que sea gratis para grupos chicos. Las notificaciones por correo son demasiadas.
+
+Respuesta 22 (Plan Empresa, 350 personas): Estable y seguro. La gestión de permisos es nuestro mayor dolor de cabeza a esta escala.
