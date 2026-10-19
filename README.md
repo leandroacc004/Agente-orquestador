@@ -5,17 +5,20 @@ Un agente que recibe una tarea en lenguaje natural, la divide en subtareas y las
 ## Cómo funciona
 
 ```
-                     ┌─────────────────────────────────────────┐
-tarea ──► ORQUESTADOR (claude-opus-5-5): planea y decide qué usar │
-              │  ▲                                              │
-     tool_use │  │ tool_result                                  │
-              ▼  │                                              │
-   ┌──────────┴──┴─────────────────────────────────────────┐      │
-   │ listar_archivos   leer_archivo (por partes)         │      │
-   │ calcular          fecha_actual    guardar_archivo   │      │
-   │ delegar_a_especialista ──► WORKER (claude-sonnet-5-5)│      │
-   └─────────────────────────────────────────────────────┘      │
-              └──────────── se repite hasta terminar ───────────┘
+tarea
+  │
+  ▼
+ORQUESTADOR (claude-opus-5-5) ◄────────────────────────┐
+  │  planea, decide qué herramienta usar               │
+  │                                                    │
+  ▼ tool_use                                           │ tool_result
+┌──────────────────────────────────────────────────┐   │
+│ listar_archivos     leer_archivo (por partes)    │   │
+│ calcular            fecha_actual                 │───┘
+│ guardar_archivo                                  │
+│ delegar_a_especialista ──► WORKER (sonnet-5-5)   │
+└──────────────────────────────────────────────────┘
+  (se repite hasta que el orquestador termina)
 ```
 
 El loop está en `correr_agente()` (`agent.py`) y está escrito a mano, sin frameworks:
